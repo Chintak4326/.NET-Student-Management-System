@@ -1,0 +1,23 @@
+click methods
+splash screen
+intent
+listview
+custom listview
+shared prefrences 
+fragment
+recyclerview
+scroll view
+video 
+audio
+option menu
+webview
+call
+JSON
+ insert
+ display
+ subcategory
+ login
+ sqlite
+ edit password
+Admob
+map
